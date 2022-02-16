@@ -1,7 +1,7 @@
 @software{Peristaltic_Motion_Software_2022,
   author = {Ibanez, Ruy},
-  month = {12},
-  title = {{Stepper Motor Peristaltic Motion}},
+  month = {02},
+  title = {Stepper Motor Peristaltic Motion},
   url = {https://github.com/NavierAndStokes/peristaltic-motion},
   version = {1.0.9},
   year = {2022}
